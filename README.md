@@ -1,2 +1,2 @@
-# AzPowerShell
-Random AZ PowerShell stuff...
+# RandomStuff
+Random stuff... the name says it all.
